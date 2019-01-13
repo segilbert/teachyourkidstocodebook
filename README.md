@@ -1,14 +1,15 @@
 # Teach Your Kids To Code Book
+
 Teach Your Kids To Code Book
 
 
-# Reference Links
- 
+## Reference Links
+
 * [Teach Your Kids To Code](http://teachyourkidstocode.com/)
 * [Teach Your Kids to Code Udemy Course](https://www.udemy.com/teach-your-kids-to-code/?couponCode=bk2school19)
 * [Age to Teach Kids Python](https://www.kinvert.com/age-teach-kids-python/)
 
-# Reference Books
+## Reference Books
 
 [![alt text][logo_tykc]](https://www.amazon.com/gp/product/1593276141/ref=ppx_yo_dt_b_asin_title_o00__o00_s00?ie=UTF8&psc=1)
 
