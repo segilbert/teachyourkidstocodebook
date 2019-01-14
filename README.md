@@ -2,8 +2,6 @@
 
 Teach Your Kids To Code Book
 
-Hi Aiden!
-
 
 ## Reference Links 
 
