@@ -2,8 +2,10 @@
 
 Teach Your Kids To Code Book
 
+Hi Aiden!
 
-## Reference Links
+
+## Reference Links 
 
 * [Teach Your Kids To Code](http://teachyourkidstocode.com/)
 * [Teach Your Kids to Code Udemy Course](https://www.udemy.com/teach-your-kids-to-code/?couponCode=bk2school19)
