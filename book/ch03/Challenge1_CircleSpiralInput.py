@@ -2,7 +2,7 @@
 import turtle   # set up turtle graphics
 t=turtle.Pen()
 t.speed(0)
-turtle.bgcolor('black')
+turtle.bgcolor('pink')
 # Set up a list of any 8 valid Python color names
 colors=['red', 'yellow', 'blue', 'green', 'orange', 'purple', 'white', 'gray']
 # Ask the user for the number of sides, between 1 and 8, default of 4
